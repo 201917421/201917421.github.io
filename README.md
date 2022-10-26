@@ -1,4 +1,4 @@
-贾琼琼的个人主页地址：https://201917421.github.io/201917421PersonBlog/login.html
+贾琼琼的个人主页地址：https://201917421.github.io/201917421PersonBlog/login.html  ，复制这个地址到搜索框可以正常点击“登录”，但在此页面直接点击会有405错误。
 
 首先是登录页面，因为未连接后台数据库，随便输入或者不输入点击“登录”按钮，则会跳转至个人首页IntroduceFirst.html
 
